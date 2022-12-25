@@ -176,7 +176,7 @@ paypal.Button.render({
                     	//total purchase
                         amount: { 
                         	total: total, 
-                        	currency: 'USD' 
+                        	currency: 'Rs.' 
                         }
                     }
                 ]
